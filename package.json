@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-megos",
+  "version": "1.0.0",
+  "description": "ESLint for megos",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megos/eslint-config-megos.git"
+  },
+  "author": "megos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/megos/eslint-config-megos/issues"
+  },
+  "homepage": "https://github.com/megos/eslint-config-megos#readme"
+}
