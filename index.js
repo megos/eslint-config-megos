@@ -1,7 +1,7 @@
 module.exports = {
   extends: [
     'airbnb-base',
-    'plugin:vue/recommended'
+    'plugin:vue/recommended',
   ],
   rules: {
     'import/extensions': ['error', 'always', {
@@ -9,7 +9,8 @@ module.exports = {
       mjs: 'never',
       jsx: 'never',
       ts: 'never',
-      tsx: 'never'
-    }]
-  }
+      tsx: 'never',
+    }],
+    semi: ['error', 'never'],
+  },
 }
