@@ -10,6 +10,7 @@ module.exports = {
       jsx: 'never',
       ts: 'never',
       tsx: 'never',
+      vue: 'never',
     }],
     semi: ['error', 'never'],
   },
