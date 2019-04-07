@@ -27,6 +27,5 @@ module.exports = {
       tsx: 'never',
       vue: 'never',
     }],
-    semi: ['error', 'never'],
   },
 }
