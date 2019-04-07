@@ -13,6 +13,9 @@
   "keywords": [
     "eslint"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "megos",
   "license": "MIT",
   "bugs": {
