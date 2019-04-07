@@ -2,6 +2,14 @@
 # yarn lockfile v1
 
 
+"@megos/eslint-config-base@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@megos/eslint-config-base/-/eslint-config-base-0.0.1.tgz#b80d9beda8e946b0c3d35fce13a322718921f1db"
+  integrity sha512-UDTim1ierDgujvXVE1ZAQ48UMI4sM5BG86VhVd99BjtTBh3mdMXZvucvgFo5PBRv03B+umeC2mg5FR+H1uLCAQ==
+  dependencies:
+    eslint-config-airbnb-base "^13.1.0"
+    eslint-plugin-import "^2.16.0"
+
 acorn-jsx@^5.0.0:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-5.0.1.tgz#32a064fd925429216a09b141102bfdd185fae40e"
@@ -336,14 +344,6 @@ eslint-config-airbnb-base@^13.1.0:
     eslint-restricted-globals "^0.1.1"
     object.assign "^4.1.0"
     object.entries "^1.0.4"
-
-eslint-config-megos-base@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/eslint-config-megos-base/-/eslint-config-megos-base-0.0.1.tgz#5ba56da13ebee25e94bb521f8f58c1b45ea6230a"
-  integrity sha512-5MiDuya0wAhxH5nyE/4OfvJI9n++AnQ76hXWzmLQBHQE3ttF5YSDQjkK0/wAwARFEn2eU5E61NNyJZv4XFTSxw==
-  dependencies:
-    eslint-config-airbnb-base "^13.1.0"
-    eslint-plugin-import "^2.16.0"
 
 eslint-import-resolver-node@^0.3.2:
   version "0.3.2"
