@@ -11,7 +11,7 @@
     "url": "git+https://github.com/megos/eslint-config-megos.git"
   },
   "keywords": [
-    "ESLint"
+    "eslint"
   ],
   "author": "megos",
   "license": "MIT",
