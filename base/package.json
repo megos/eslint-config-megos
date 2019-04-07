@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-megos-base",
+  "name": "@megos/eslint-config-base",
   "version": "0.0.1",
   "description": "ESLint for megos",
   "main": "index.js",
