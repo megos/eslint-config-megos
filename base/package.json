@@ -1,6 +1,6 @@
 {
   "name": "@megos/eslint-config-base",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ESLint for megos",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,9 @@
   "keywords": [
     "eslint"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "megos",
   "license": "MIT",
   "bugs": {
@@ -20,7 +23,6 @@
   },
   "homepage": "https://github.com/megos/eslint-config-megos#readme",
   "dependencies": {
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.16.0"
+    "eslint-config-airbnb-base": "^13.1.0"
   }
 }
