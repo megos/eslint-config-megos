@@ -1,3 +1,3 @@
-# eslint-config-megos-base
+# @megos/eslint-config-base
 
-ESLint for megos
+eslint-config-airbnb-base based ESLint for megos
