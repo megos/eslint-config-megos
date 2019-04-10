@@ -1,3 +1,3 @@
 module.exports = {
-  extends: './vue/index.js'
+  extends: './base/index.js'
 }
