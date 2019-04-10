@@ -1,13 +1,13 @@
 module.exports = {
   extends: [
     '@megos/eslint-config-base',
-    'plugin:vue/recommended'
+    'plugin:vue/recommended',
   ],
   settings: {
     'import/resolver': {
       webpack: {
-        config: require.resolve('@vue/cli-service/webpack.config.js')
-      }
+        config: require.resolve('@vue/cli-service/webpack.config.js'),
+      },
     },
     'import/extensions': [
       '.js',
@@ -16,7 +16,7 @@ module.exports = {
       '.ts',
       '.tsx',
       '.vue',
-    ]
+    ],
   },
   rules: {
     'import/extensions': ['error', 'always', {
