@@ -3,4 +3,7 @@ module.exports = {
     '@megos/eslint-config-base',
     'airbnb',
   ],
+  rules: {
+    semi: ['error', 'never'],
+  },
 }

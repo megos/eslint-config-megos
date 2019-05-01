@@ -1,6 +1,6 @@
 {
   "name": "@megos/eslint-config-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ESLint for megos",
   "main": "index.js",
   "scripts": {
