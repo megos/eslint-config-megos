@@ -1,6 +1,6 @@
 {
   "name": "@megos/eslint-config-base",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "ESLint for megos",
   "main": "index.js",
   "scripts": {
