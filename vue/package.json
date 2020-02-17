@@ -1,6 +1,6 @@
 {
   "name": "@megos/eslint-config-vue",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "ESLint for megos",
   "main": "index.js",
   "scripts": {
@@ -23,9 +23,9 @@
   },
   "homepage": "https://github.com/megos/eslint-config-megos#readme",
   "dependencies": {
-    "@megos/eslint-config-base": "0.0.5",
+    "@megos/eslint-config-base": "0.0.6",
     "eslint-import-resolver-webpack": "0.12.1",
-    "eslint-plugin-vue": "6.1.2"
+    "eslint-plugin-vue": "6.2.0"
   },
   "devDependencies": {}
 }
