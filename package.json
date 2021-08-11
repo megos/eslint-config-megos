@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "babel-eslint": "10.1.0",
-    "eslint": "7.30.0",
+    "eslint": "7.32.0",
     "eslint-config-airbnb-base": "14.2.1",
     "eslint-import-resolver-webpack": "0.13.1",
     "eslint-plugin-import": "2.23.4",
